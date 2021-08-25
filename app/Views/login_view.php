@@ -20,7 +20,7 @@
       <div class="row align-items-center h-100">
           <div class="col-6 mx-auto text-center">
               <div class="jumbotron">
-                  <p><b>Login using OAuth + Codeiginter 4</b></p>
+                  <p><b>Login using OAuth + Codeiginter4</b></p>
                   <?php 
                     echo $googleButton;
                   ?>
